@@ -1,0 +1,4 @@
+[submodule "packingworld"]
+	path = packingworld
+	url = git@git.vauxoo.com:vauxoo/packingworld.git
+	branch = 19.0
