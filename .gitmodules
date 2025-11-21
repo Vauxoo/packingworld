@@ -2,3 +2,7 @@
 	path = packingworld
 	url = git@git.vauxoo.com:vauxoo/packingworld.git
 	branch = 19.0
+[submodule "xunnel-account"]
+	path = xunnel-account
+	url = git@git.vauxoo.com:vauxoo/xunnel-account.git
+	branch = 19.0
