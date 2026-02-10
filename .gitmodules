@@ -6,3 +6,11 @@
 	path = xunnel-account
 	url = git@git.vauxoo.com:vauxoo/xunnel-account.git
 	branch = 19.0
+[submodule "edi-document"]
+	path = edi-document
+	url = git@git.vauxoo.com:vauxoo/edi-document.git
+	branch = 19.0
+[submodule "mexico-document"]
+	path = mexico-document
+	url = git@git.vauxoo.com:vauxoo/mexico-document.git
+	branch = 19.0
